@@ -24,9 +24,9 @@ The repository contains the following files and directories:
 - `oekoakustik.pptx`: Presentation slides from the talk with audio.
 - `oekoakustik.pdf`: Presentation slides without audio.
 - Audio samples used in the notebooks:
-  - `dufour_mono.wav`
-  - `incidences_resonances.wav`
-  - `rock_savanna.wav`
+  - `dufour_mono.wav`: Denis Dufour - Bocalises (Petite Suite) - Prélude (Enchaîné)
+  - `incidences_resonances.wav`:  Bernard Parmegiani - De Natura Sonorum -  Incidences/résonances
+  - `rock_savanna.wav`: Tropical rock savanna on a granite hill in French Guiana from scikit-maad dataset
 - Notebooks:
   - `mfcc_bank.ipynb`: A quick introduction to MFCC (Mel Frequency Cepstral Coefficients) filter banks.
   - `ssm_detail_vector.ipynb`: In-depth audio-based SSM (Self-Similarity Matrix) calculation.
