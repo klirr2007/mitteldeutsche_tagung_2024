@@ -1,5 +1,7 @@
 # Von der Ökoakustik zur Elektroakustik - Machine Learning im Kontext der Klanganalyse und Klangklassifikation
 
+# From Ecoacoustic to Electroacoustic: Utilizing Machine Learning for Sound Analysis and Classification
+
 
 This repository contains supplementary files and resources for my talk at the XVII. Mitteldeutsche Tagung. The materials are designed to provide a deeper understanding and hands-on examples related to the topics discussed during the presentation.
 
