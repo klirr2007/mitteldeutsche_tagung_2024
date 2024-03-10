@@ -18,7 +18,8 @@ pip install -r requirements.txt
 
 The repository contains the following files and directories:
 
-- `oekoakustik.pptx`: Presentation slides from the talk.
+- `oekoakustik.pptx`: Presentation slides from the talk with audio.
+- `oekoakustik.pdf`: Presentation slides without audio.
 - Audio samples used in the notebooks:
   - `dufour_mono.wav`
   - `incidences_resonances.wav`
