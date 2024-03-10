@@ -1,4 +1,5 @@
-# Supplementary Materials for XVII. Mitteldeutsche Tagung Talk
+# Von der Ökoakustik zur Elektroakustik: Machine Learning im Kontext der Klanganalyse und Klangklassifikation
+
 
 This repository contains supplementary files and resources for my talk at the XVII. Mitteldeutsche Tagung. The materials are designed to provide a deeper understanding and hands-on examples related to the topics discussed during the presentation.
 
@@ -37,4 +38,3 @@ The repository contains the following files and directories:
 To get started, clone this repository and navigate to the cloned directory. Activate your `mittel_env` environment and install the required packages as described in the Environment Setup section above.
 
 You can then open the notebooks using Jupyter Notebook or JupyterLab to follow along with the examples and explore the concepts discussed in the talk.
-
